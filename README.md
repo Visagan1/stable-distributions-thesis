@@ -1,2 +1,5 @@
-# stable-distributions-thesis
-Bachelor's thesis on stable distributions, supervised by Carsten Wiuf.
+# Stable Distributions
+
+Bachelor's thesis in Mathematics-Economics, University of Copenhagen, 2026.
+
+Supervisor: Carsten Wiuf.
